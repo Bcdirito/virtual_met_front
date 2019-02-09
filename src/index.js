@@ -14,8 +14,8 @@ window.addEventListener('DOMContentLoaded', function(){
     const play = document.getElementById('play')
 
     const metUrl = "https://collectionapi.metmuseum.org/public/collection/v1/objects"
-    const artworksUrl = "http://localhost:3000/artworks"
-    const departmentsUrl = "http://localhost:3000/departments"
+    const artworksUrl = "https://virtual-met-back.herokuapp.com/artworks"
+    const departmentsUrl = "https://virtual-met-back.herokuapp.com/departments"
 
     getPaintings()
     getDepartments()
