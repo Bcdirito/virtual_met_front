@@ -3,6 +3,7 @@
 created by [Chris Weber](https://github.com/christopherweber) and [Brian DiRito](https://github.com/bcdirito)
 
 click [here](https://virtual-met-front.herokuapp.com/) to interact
+
 click [here](https://drive.google.com/file/d/17o2SnVWUpYL4yTOPORWBhVyEIjuvuXWd/view?usp=sharing) for video demo
 
 Virtual Met is a single-page Vanilla JavaScript application with a Ruby on Rails backend
