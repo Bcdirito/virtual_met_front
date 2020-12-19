@@ -6,6 +6,8 @@ click [here](https://virtual-met-front.herokuapp.com/) to interact
 
 click [here](https://drive.google.com/file/d/17o2SnVWUpYL4yTOPORWBhVyEIjuvuXWd/view?usp=sharing) for video demo
 
+click [here](https://github.com/Bcdirito/virtual_met_back) to view backend repo
+
 Virtual Met is a single-page Vanilla JavaScript application with a Ruby on Rails backend
 
 Take procured tours of the Met 5th Ave Museum with the Virtual Met. With accompanying music, access to the Met's database, and already predetermined works, you can browse through up to six departments!
